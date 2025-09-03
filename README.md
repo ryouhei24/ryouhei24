@@ -1,5 +1,7 @@
-
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryouhei24&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryouhei24&theme=onedark&show_icons=ture" />
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryouhei24&layout=compact&theme=radical" />
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryouhei24&theme=cobalt&show_icons=true" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryouhei24&theme=onedark&column=7
+)]
